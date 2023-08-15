@@ -18,7 +18,7 @@ import {
 } from '@nestjs/swagger'
 import UserWithTokensVo from './vo/user-with-tokens.vo'
 import TokensVo from './vo/tokens.vo'
-import UserInfoVo from './vo/user-info'
+import UserInfoVo from './vo/user-info.vo'
 import userListVo from './vo/user-list.vo'
 
 @ApiTags('用户')

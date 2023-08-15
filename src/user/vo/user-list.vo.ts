@@ -1,5 +1,5 @@
 import { ApiProperty } from '@nestjs/swagger'
-import UserInfoVo from './user-info'
+import UserInfoVo from './user-info.vo'
 
 class Pagination {
   @ApiProperty()
