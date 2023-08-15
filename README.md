@@ -6,7 +6,6 @@
 
 # 运行
 
-1. 按照`.env.example`填写`.env`文件
-   需要`mysql`、`redis`环境
+1. 按照`.env.example`填写`.env`文件（需要`mysql`、`redis`环境）
 
 2. `pnpm start:dev`
